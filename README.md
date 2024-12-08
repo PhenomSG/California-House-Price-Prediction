@@ -28,10 +28,6 @@ The dataset is taken from the `California Housing Dataset`, which contains vario
 Various plots are created to understand the relationships between features and house prices:
 - **Scatter Plots**: To show individual feature vs. price relationships.
 - **Correlation Heatmap**: To identify correlations between features and prices.
-- **Pairplot**: To examine pairwise relationships between features.
-- **Boxplot & Violin Plot**: To visualize distributions and detect outliers.
-- **Histogram**: To visualize the distribution of house prices.
-- **KDE Plot**: To estimate and visualize the probability distribution of prices.
 
 #### Example Visualization - Correlation Heatmap
 The correlation heatmap shows the relationships between different features and their correlation with house prices.
