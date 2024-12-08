@@ -48,8 +48,3 @@ This scatter plot shows the relationship between various features and the price 
 - **Pandas**: Data manipulation and analysis.
 - **Matplotlib & Seaborn**: For creating data visualizations.
 - **Scikit-learn**: For loading the dataset and implementing machine learning models.
-
-## Conclusion
-This project explores the impact of various features on house prices in California. The visualizations provide an intuitive understanding of the relationships between house prices and features like location, income, and proximity to the ocean. The next steps could involve applying machine learning models to predict house prices based on these features.
-
-
