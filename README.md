@@ -1,7 +1,6 @@
 
 # California Housing Price Prediction
 
-## Project Overview
 The goal of this project is to explore the California housing dataset and understand the relationship between various features (such as location, population, income levels, etc.) and house prices. Using visualizations and data analysis techniques, we aim to explore key patterns in the data that can help in predicting house prices.
 
 ## Dataset
