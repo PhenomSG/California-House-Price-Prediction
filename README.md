@@ -42,6 +42,16 @@ This scatter plot shows the relationship between various features and the price 
 - After visualizing the data, machine learning models such as linear regression or decision trees could be applied to predict house prices.
 - The goal is to build a model that accurately predicts housing prices based on the available features.
 
+## Kaggle Notebook
+You can access the full project notebook on Kaggle to explore and run the code:
+
+[Kaggle Notebook - California Housing Price Prediction](https://www.kaggle.com/code/phenomsg/california-housing-price-prediction)
+
+## Kaggle Profile
+For more projects and insights, you can visit my Kaggle profile:
+
+[Kaggle Profile - PhenomSG](https://www.kaggle.com/phenomsg)
+
 ## Tools and Libraries Used
 - **Python**: Programming language used for data manipulation and visualization.
 - **Pandas**: Data manipulation and analysis.
